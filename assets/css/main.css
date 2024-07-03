@@ -1,0 +1,60 @@
+html {
+  block-size: 100%;
+  color-scheme: light dark; 
+}
+
+body {
+    background-color: rgba(237, 243, 248, 0.795);
+}
+
+
+.jumbotron {
+  background-image: url(../../images/Captura-apuntes-especializacion.PNG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+ 
+  h1,h4 {
+    align-content: center;
+    position: relative;
+    top: 50%;
+    -webkit-text-stroke: 1px grey;
+    -webkit-text-fill-color: #FFF;
+  }
+}
+
+
+
+h1,h2,h3,h4,h5 {
+    color: #1095e2;
+    font-weight: bold;
+}
+
+span {   
+    color: rgba(61, 105, 105, 0.945);
+    font-size:medium;
+}
+
+
+span.update {
+  margin-top: 1rem;
+  padding-top: 2rem;
+  position: relative;
+  top: 70%;
+  -webkit-text-stroke: 1px rgb(77, 76, 76);
+  -webkit-text-fill-color: #FFF;
+}
+
+@counter-style check {
+    system: cyclic;
+    symbols: ✔️;
+    suffix:" ";
+  }
+
+li {
+    list-style: check;
+}
+
+a{
+  text-decoration: none;
+}
