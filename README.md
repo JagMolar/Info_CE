@@ -10,3 +10,7 @@ superar los Cursos de Especialización.
 <p>
 Es una iniciativa estudiantil que no pretende sustituir, reemplazar o mostrarse como algo oficial.
 </p>
+
+<p>
+🌐 <em><b>Puedes acceder al sitio </b> <a href="https://jagmolar.github.io/Info_CE/" target="blank">web desde aquí</a> <b>. Espero que te guste!!</b> :)</em>
+</p>
