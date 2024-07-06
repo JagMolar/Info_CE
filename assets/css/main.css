@@ -40,6 +40,10 @@ h2,h3,h4.headline{
   margin-bottom: 2rem;
 }
 
+h4.access{
+  margin-bottom: 0;
+}
+
 span {   
     color: rgba(61, 105, 105, 0.945);
     font-size:medium;
@@ -62,8 +66,13 @@ span.update {
     suffix:" ";
   }
 
-li {
+  ul li {
     list-style: check;
+}
+
+ol li{
+  list-style-type: decimal;
+  list-style-position: inside;
 }
 
 a{
