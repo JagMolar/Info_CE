@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-color: rgba(242, 244, 247, 0.795);
+  background-color: rgb(247, 249, 251);
     /* height:100%; */
 }
 
@@ -69,3 +69,8 @@ li {
 a{
   text-decoration: none;
 }
+
+footer a{
+  color: #575b5e;
+}
+
