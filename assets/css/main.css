@@ -57,6 +57,15 @@ span.update {
   top: 70%;
   -webkit-text-stroke: 1px rgb(77, 76, 76);
   -webkit-text-fill-color: #FFF;
+
+  @media (width < 1008px) {
+    margin-top: 1rem;
+    padding-top: 2rem;
+    position: relative;
+    top: 50%;
+    -webkit-text-stroke: 1px rgb(244,244,244);
+    -webkit-text-fill-color: #FFF;
+  }
 }
 
 
