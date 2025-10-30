@@ -54,7 +54,7 @@ span.update {
   margin-top: 1rem;
   padding-top: 2rem;
   position: relative;
-  top: 70%;
+  top: 65%;
   -webkit-text-stroke: 1px rgb(77, 76, 76);
   -webkit-text-fill-color: #FFF;
 
@@ -63,7 +63,7 @@ span.update {
     padding-top: 2rem;
     position: relative;
     top: 50%;
-    -webkit-text-stroke: 1px rgb(244,244,244);
+    -webkit-text-stroke: 1px rgba(243, 243, 243, 0.11);
     -webkit-text-fill-color: #FFF;
   }
 }
