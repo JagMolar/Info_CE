@@ -68,7 +68,7 @@ span.update {
   }
 }
 .alert-danger .danger {
-  color: red;
+  color: red !important;
 }
 
 
