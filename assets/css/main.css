@@ -67,6 +67,9 @@ span.update {
     -webkit-text-fill-color: #FFF;
   }
 }
+.alert-danger .danger {
+  color: red;
+}
 
 
 @counter-style check {
